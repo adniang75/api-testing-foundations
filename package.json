@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-        "json-server": "^0.16.1",
-        "minimist": ">=1.2.3"
+        "json-server": "^1.0.0-alpha.23",
+        "minimist": ">=1.2.6"
     }
 }
